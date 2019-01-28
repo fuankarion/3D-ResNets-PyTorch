@@ -271,5 +271,4 @@ python main.py --root_path ~/data --video_path ucf101_videos/jpg --annotation_pa
 --model resnet --model_depth 34 --resnet_shortcut A --batch_size 128 --n_threads 4 --checkpoint 5
 ```
 
-
-https://www.dropbox.com/s/s3nmuszfhhxe0nx/video-segmentation.pdf?dl=0
+https://www.dropbox.com/s/hbq4zbfl2fwy2ft/I3D.pdf?dl=0
